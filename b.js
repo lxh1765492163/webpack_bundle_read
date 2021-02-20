@@ -1,1 +1,1 @@
-export default '一步加载';
+export default 'yibu加载';
