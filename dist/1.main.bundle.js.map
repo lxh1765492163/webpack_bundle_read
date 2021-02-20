@@ -1,1 +1,1 @@
-{"version":3,"sources":["webpack:///./c.js"],"names":[],"mappings":";;;;;;;;;;AAAA;AAAA;AAAO,c","file":"1.main.bundle.js","sourcesContent":["export const a = 123;"],"sourceRoot":""}
+{"version":3,"sources":["webpack:///./c.js"],"names":["a"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAO,MAAMA,CAAC,GAAG,GAAV,C","file":"1.main.bundle.js","sourcesContent":["export const a = 123;"],"sourceRoot":""}
